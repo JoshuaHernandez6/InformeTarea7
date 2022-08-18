@@ -74,7 +74,6 @@ SECCIÓN 13–5 Inductores en circuitos de ca
 ![image](https://user-images.githubusercontent.com/105715717/185451137-432205c2-5397-4d54-a781-c5b30110da9e.png)
 
 
-
 # Video
 
 https://www.youtube.com/watch?v=tnfpi5K0rGI
